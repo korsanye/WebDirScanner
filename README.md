@@ -19,17 +19,17 @@ I built this program is that got inspiration from OWASP DirBuster tool. Because 
 ## Installation
 ### Python2
 ```
-git clone https://github.com/Lunpopo/GetWebBanner.git
-cd GetWebBanner
+git clone https://github.com/Lunpopo/WebDirScanner.git
+cd WebDirScanner
 pip2 install -r requirement.txt
-python2 get_web_banner.py -h
+python2 web_dir_scanner.py
 ```
 ### Python3
 ```
-git clone https://github.com/Lunpopo/GetWebBanner.git
-cd GetWebBanner
+git clone https://github.com/Lunpopo/WebDirScanner.git
+cd WebDirScanner
 pip3 install -r requirement.txt
-python3 get_web_banner.py -h
+python3 web_dir_scanner.py
 ```
 
 ## Usage
